@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        "page-treeview",
+        "code",
+        "pageview-count",
+        "expandable-chapters",
+        "hide-element",
+        "back-to-top-button",
+        "splitter",
+        "chapter-fold"
+    ]
+}
