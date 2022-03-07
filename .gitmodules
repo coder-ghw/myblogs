@@ -1,3 +1,0 @@
-[submodule "gitbooks"]
-	path = gitbooks
-	url = git@github.com:coder-ghw/gitbooks.git
