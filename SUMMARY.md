@@ -20,5 +20,5 @@
 ## image_denoise
 * [Introduction](image_denoise/README.md)
 * [basic_process](image_denoise/basic_process/README.md)
-    * [psf](image_denoise/basic_process/psf.md)
+    * [deconvolution](image_denoise/basic_process/deconvolution.md)
 
