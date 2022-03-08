@@ -19,6 +19,6 @@
 
 ## image_denoise
 * [Introduction](1-image_denoise/README.md)
-* [basic_process](1-image_denoise/basic_process/README.md)
-    * [deconvolution](1-image_denoise/basic_process/deconvolution.md)
+* [传统算法](1-image_denoise/传统算法/README.md)
+    * [deconvolution](1-image_denoise/传统算法/deconvolution.md)
 
