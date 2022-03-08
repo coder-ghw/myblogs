@@ -35,7 +35,7 @@ jobs:
       - name: 'Generating distributable files'
         run: |
           gitbook install
-          gitbook build  
+          gitbook build
       - uses: peaceiris/actions-gh-pages@v2.5.0
         env:
           ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
